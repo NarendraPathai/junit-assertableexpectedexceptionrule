@@ -37,5 +37,5 @@ public class Test {
 }
 ```
 
-So in this way this `Rule` allows post exception assertions possible which looks neat with Java 8 syntax.
-Plus the `AssertableExpectedException` rule provides fluent interface for creating assertions.
+So this way `AssertableExpectedException` allows post exception assertions possible which looks neat with Java 8 syntax.
+Plus it rule provides fluent interface for creating assertions.
